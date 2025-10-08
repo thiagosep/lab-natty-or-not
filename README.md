@@ -45,7 +45,8 @@ O resultado é uma galeria de paisagens futuristas acompanhadas de descrições 
 - 🌲 Florestas inteligentes e autogeridas;  
 - ☀️ Desertos convertidos em ecossistemas solares vivos.  
 
-Essas criações demonstram como as IAs podem colaborar na arte e na imaginação de futuros sustentáveis.  
+Essas criações demonstram como as IAs podem colaborar na arte e na imaginação de futuros sustentáveis.
+https://github.com/thiagosep/lab-natty-or-not/tree/main/paisagens-do-futuro-ia   
 
 ## 💭 Reflexão (Opcional)  
 Criar algo “natty” com IA é desafiador, pois a linha entre o natural e o artificial é tênue.  

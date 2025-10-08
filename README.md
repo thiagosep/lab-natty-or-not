@@ -28,13 +28,13 @@ A ideia é unir arte e reflexão, mostrando o poder das IAs na criação de cen�
 
 ## 🤖 Tecnologias Utilizadas  
 - ChatGPT (GPT-5) → geração de ideias e textos criativos.  
-- DALL·E → criação das imagens futuristas baseadas nos textos.  
+- Gemini → criação das imagens futuristas baseadas nos textos.  
 - Canva → edição final das imagens e composição estética.  
 - GitHub → armazenamento e publicação do projeto.  
 
 ## 🧠 Processo de Criação  
 1. Ideação: Pedi ao ChatGPT descrições de possíveis paisagens da Terra em 2150.  
-2. Geração de Imagens: Usei o DALL·E para transformar essas descrições em imagens detalhadas.  
+2. Geração de Imagens: Usei o Gemini para transformar essas descrições em imagens detalhadas.  
 3. Edição Visual: Ajustei cores e legendas no Canva, buscando um visual harmônico e inspirador.  
 4. Organização: Criei um repositório no GitHub com todas as imagens e textos produzidos.  
 
